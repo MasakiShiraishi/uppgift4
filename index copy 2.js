@@ -1,4 +1,4 @@
-// Hämta formuläret, textfältet och listan från DOM
+// Hämta formuläret, textfältet och listan från DOM-
 // form id="todo-form"
 const todoForm = document.getElementById("todo-form");
 // input id="new-todo"
